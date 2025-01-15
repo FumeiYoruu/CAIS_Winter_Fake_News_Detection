@@ -20,6 +20,11 @@ For this binary classification, we decided to apply a pre-trained BERT classific
 
 The model reached about 100% accuracy on both the training and validation set with about 100% recall and precision as well. The results demonstrate that the model is extremely capable of the task.
 
+| Epoch	| Training Loss |	Valid. Loss |	Valid. Accur. |	Valid. Precision	| Valid. Recall |
+| -------- | ------- | ------- | ------- | ------- | ------- |
+1 |	0.048 |	0.024 |	0.995 |	0.991	| 0.999 |
+2	| 0.004 |	0.020 |	0.997 |	0.995 |	0.998 |
+
 ### Discussion
 
 The model architecture and training procedures fit the task very well with almost perfect performance in classifying fake news against true ones. The model can be wrapped into an application or web browser extension that can identify fake news articles. In this way, less people would be tricked by fake news. There are not notable limitations as the dataset used is public and the pre-trained BERT model is open source. For the continuation of the project, we may enlarge the dataset by crawling more news articles and test the model on a wider variety of news article types. The current dataset majorly consists of international news and political news.  
