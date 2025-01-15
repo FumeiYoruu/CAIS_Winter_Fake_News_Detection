@@ -18,7 +18,7 @@ For this binary classification, we decided to apply a pre-trained BERT classific
 
 ### Model
 
-The model reached 100% accuracy on both the training and validation set with 100% recall and precision as well. The results demonstrate that the model is extremely capable of the task.
+The model reached about 100% accuracy on both the training and validation set with about 100% recall and precision as well. The results demonstrate that the model is extremely capable of the task.
 
 ### Discussion
 
