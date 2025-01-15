@@ -2,7 +2,7 @@
 
 **Alvin Tan**
 
-<ins>tanalvin@usc.edu</ins>
+tanalvin@usc.edu
 
 ### Introduction
 
